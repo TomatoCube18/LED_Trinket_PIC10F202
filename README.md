@@ -1,5 +1,5 @@
 # LED_Trinket_PIC10F202
-![alt text](https://github.com/TomatoCube18/LED_Blinker_PIC10F20/blob/main/images/Front_Back.png)
+![alt text](https://github.com/TomatoCube18/LED_Blinker_PIC10F202/blob/main/images/Front_Back.png)
 
 ## Description
 coming soon
