@@ -5,14 +5,12 @@
 coming soon
 
 ## Components Required:
-• 1x Pre-programmed PIC10 microcontroller (Refer to /src/xxx)
-• 2x 3mm LEDs
-• 1x 0.1uF Capacitor
-• 1x Tactile Switches
-• 1x CR2032 Battery Clip Holder
+* 1x Pre-programmed PIC10 microcontroller (Refer [here](/src/Blink.c) for the source code)
+* 2x 3mm LEDs
+* 1x 0.1uF Capacitor
+* 1x Tactile Switches
+* 1x CR2032 Battery Clip Holder
 
-## Soldering Guide
-coming soon
-
-## User Instruction
-Press the tactile switch to start blinking the LED. Once blinking has started, continue pressing the switch to adjust the blinking rate
+## Instruction
+* For soldering instructions, please refer to the soldering guide [here](docs/Soldering_Guide.pdf).
+* After completing the soldering process for the LED Blinker, press the tactile switch to initiate LED blinking. Once blinking has started, continue pressing the switch to adjust the blinking rate.
